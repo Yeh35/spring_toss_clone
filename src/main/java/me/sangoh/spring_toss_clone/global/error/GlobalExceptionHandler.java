@@ -1,6 +1,5 @@
 package me.sangoh.spring_toss_clone.global.error;
 
-import lombok.extern.slf4j.Slf4j;
 import me.sangoh.spring_toss_clone.global.error.exception.BusinessException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
